@@ -1,0 +1,3 @@
+
+rootProject.name = "CSE 535 individual assignment 1"
+include ':app'
